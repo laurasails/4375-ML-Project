@@ -1,1 +1,1 @@
-# ML Project: Stock Prediction via Sentiment Analysis
+# ML Project: Stock Prediction using NLP
